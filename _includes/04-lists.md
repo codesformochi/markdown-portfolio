@@ -1,13 +1,13 @@
 ### List of favorite cats
-1. Kitty
+* Kitty
    - black cat, short hair
-1. Phoebs
+* Phoebs
    - brown tabby, short hair
-2. Weez
+* Weez
    - grey, short hair
-3. Puj
+* Puj
    - black cat, short hair
-4. Kitten
+* Kitten
    - calico long hair
-5. Chedd
+* Chedd
    - orange and white tabby, long hair
